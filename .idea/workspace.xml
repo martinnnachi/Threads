@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1804625c-d6b0-4ed3-8cf7-fdcd37c290cd" name="Default" comment="Threads">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Threads/com/company/AnotherThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threads/com/company/AnotherThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Threads/com/company/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threads/com/company/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Threads/com/company/Main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Threads/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threads/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="1804625c-d6b0-4ed3-8cf7-fdcd37c290cd" name="Default" comment="Threads" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,7 +82,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -172,7 +165,7 @@
       <workItem from="1530272751490" duration="2021000" />
       <workItem from="1530528620829" duration="602000" />
       <workItem from="1530531193597" duration="1332000" />
-      <workItem from="1530542648545" duration="633000" />
+      <workItem from="1530542648545" duration="964000" />
     </task>
     <task id="LOCAL-00001" summary="Threads">
       <created>1530273215026</created>
@@ -185,7 +178,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8311000" />
+    <option name="totallyTimeSpent" value="8642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
