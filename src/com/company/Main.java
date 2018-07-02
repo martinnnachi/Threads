@@ -1,8 +1,6 @@
 package com.company;
 
-import static com.company.ThreadColor.ANSI_GREEN;
-import static com.company.ThreadColor.ANSI_PURPLE;
-import static com.company.ThreadColor.ANSI_RED;
+import static com.company.ThreadColor.*;
 
 public class Main {
 
@@ -31,6 +29,6 @@ public class Main {
         });
         myRunnableThread.start();
 
-        System.out.println(ANSI_PURPLE + "Hello again from the main thread");
+        System.out.println(ANSI_BLUE + "Hello again from the main thread");
     }
 }
